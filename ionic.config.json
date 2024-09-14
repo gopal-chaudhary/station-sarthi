@@ -1,0 +1,7 @@
+{
+  "name": "Station-sarthi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
